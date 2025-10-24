@@ -1,2 +1,7 @@
 #All .log files
 *.log
+*.db
+
+#Directories with the names
+**/target
+**/bin
